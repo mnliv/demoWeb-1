@@ -1,3 +1,11 @@
 body {
 	font-family: 'Arvo', serif;
 }
+
+#skills {
+
+}
+
+.height {
+	min-height: 100vh;
+}
