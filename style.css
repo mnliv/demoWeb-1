@@ -24,7 +24,7 @@ body {
 	background-attachment: fixed;
 }
 
-#filter {
+#filter, #progress {
 	background: linear-gradient(rgba(0,0,0,.5), rgba(0,0,0,.9)), url(./img/projects-1.jpeg);
 	background-size: cover;
 	background-position: center;
